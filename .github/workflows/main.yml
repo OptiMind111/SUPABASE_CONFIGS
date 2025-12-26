@@ -1,0 +1,4 @@
+npm install
+cp env.example .env
+# Edit .env with your configs
+npm run ping
